@@ -1,4 +1,6 @@
 # python-programs
 
 Learning python programming
-1) create a swap function
+1) created a swap function
+2) created a RockPapperScissors
+ 
